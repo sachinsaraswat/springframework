@@ -1,7 +1,6 @@
 package com.example.printer;
 
-import com.example.printer.msg.EnglishMessagePrinter;
-import com.example.printer.msg.FrenchMessagePrinter;
+
 import com.example.printer.msg.MessagePrinterInterface;
 
 import org.springframework.beans.factory.annotation.Autowired;
