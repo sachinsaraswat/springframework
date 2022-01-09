@@ -1,4 +1,4 @@
-com/example/simplewebapp/service/QuotesService.class
-com/example/simplewebapp/SimplewebappApplication.class
-com/example/simplewebapp/controller/QuoteController.class
-com/example/simplewebapp/controller/HomeController.class
+com\example\simplewebapp\controller\HomeController.class
+com\example\simplewebapp\SimplewebappApplication.class
+com\example\simplewebapp\service\QuotesService.class
+com\example\simplewebapp\controller\QuoteController.class
