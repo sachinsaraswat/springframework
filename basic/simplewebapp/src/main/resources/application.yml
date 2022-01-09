@@ -1,0 +1,8 @@
+server:
+  port: 9080
+
+quoteList:
+  - Quote Number 1
+  - Quote Number 2
+  - Quote Number 3
+  - Quote Number 4
