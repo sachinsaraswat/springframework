@@ -1,0 +1,1 @@
+Simple Web page app with Random Motivational Quote
