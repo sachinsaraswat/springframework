@@ -13,6 +13,6 @@ public class HomeController {
     {
         model.addAttribute("welcomeMessage", "Welcome To Simple Quotes Web app");
 
-        return "index";
+        return "index.html";
     }
 }
