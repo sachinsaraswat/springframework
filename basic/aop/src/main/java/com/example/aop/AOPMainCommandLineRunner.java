@@ -34,7 +34,7 @@ public class AOPMainCommandLineRunner  implements CommandLineRunner{
 
         bird.move(100);
 
-        bird.move(-100);
+        //bird.move(-100);
 
     
     }
