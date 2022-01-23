@@ -33,7 +33,12 @@ public class AOPMainCommandLineRunner  implements CommandLineRunner{
         vehicle.move(100);
 
         bird.move(100);
+
+        bird.move(-100);
+
+    
     }
+
 
     
     
